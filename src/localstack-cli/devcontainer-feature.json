@@ -61,8 +61,10 @@
             "ghcr.io/devcontainers/features/node",
             "ghcr.io/devcontainers/features/aws-cli",
             "ghcr.io/devcontainers-contrib/features/aws-cdk",
+            "ghcr.io/devcontainers-extra/features/aws-cdk",
             "ghcr.io/customink/codespaces-features/sam-cli",
             "ghcr.io/devcontainers-contrib/features/pulumi",
+            "ghcr.io/devcontainers-extra/features/pulumi",
             "ghcr.io/devcontainers/features/terraform"
     ]
 }
